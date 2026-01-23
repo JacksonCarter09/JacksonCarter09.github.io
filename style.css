@@ -16,7 +16,6 @@ nav {
     margin: 0 auto;
     display: flex;
     padding: 10px;
-    margin-bottom: 20px;
 }
 
 h1 {
@@ -76,10 +75,9 @@ h2, h3 {
     margin: 0px;
 }
 
-
 /* Portfolio styles */
 .content h1 {
-  color: rgb(243, 243, 243);
+  color: rgb(255, 255, 255);
 }
 
 #portfolio {
